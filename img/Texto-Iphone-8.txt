@@ -1,0 +1,72 @@
+Apple revela iPhone 8, iPhone 8 Plus e iPhone X
+
+        iPhone X tem frente dominada por tela OLED de 5,8 polegadas e tecnologia de reconhecimento facial.
+        Apple também apresentou o iPhone 8 e o iPhone 8 Plus, com novidades de hardware e câmeras melhores.
+
+        Por Paulo Higa
+        12/09/2017 às 15h20
+
+        A Apple anunciou nesta terça-feira (12) a nova geração de iPhones. São três modelos, sendo duas atualizações, batizadas de iPhone 8 e iPhone 8 Plus, e um aparelho totalmente novo, que possui frente dominada pela tela OLED de 5,8 polegadas e se chama iPhone X. Eles já haviam vazado, mas agora temos as informações oficiais. Vamos a eles?
+
+        iPhone 8 e iPhone 8 Plus
+
+
+
+        Primeiro, vamos para a atualização do iPhone 7. O iPhone 8 e o iPhone 8 Plus possuem traseira de vidro, se parecem bastante com os antecessores e continuam com resistência contra água e poeira, alem dos alto-falantes estéreo. As telas são de 4,7 e 5,5 polegadas e suportam a tecnologia True Tone, que ajusta a temperatura do display de acordo com a iluminação do ambiente.
+
+        Os iPhones 8 são equipados com o processador A11 Bionic. A CPU é hexa-core, com dois núcleos de alto desempenho (25% mais rápidos que os do A10) e quatro núcleos de economia de energia (70% mais rápidos). A GPU, pela primeira vez desenvolvida pela própria Apple, é 30% mais potente que a do A10 e consegue fornecer o mesmo desempenho do antecessor com metade da energia.
+
+
+
+        A câmera dupla continua restrita ao modelo maior, que conta com sensor duplo de 12 megapixels, sendo uma lente normal com abertura f/1,8 e uma teleobjetiva com abertura f/2,8. O iPhone 8 de 4,7 polegadas tem apenas um sensor com estabilização óptica de imagem. De acordo com a Apple, os sensores são novos, consomem menos energia, capturam mais luz e são otimizados para realidade aumentada.
+
+        Embora os formatos dos novos iPhones sejam semelhantes aos da geração anterior, o material da traseira mudou de alumínio para vidro. Por um motivo: o iPhone 8 e o Phone 8 Plus suportam a tecnologia de carregamento sem fio, e são compatíveis com qualquer carregador que suporte a tecnologia Qi, um padrão de mercado também utilizado por outras fabricantes.
+
+
+
+        O iPhone 8 será vendido nas versões de 64 e 256 GB, com preços de US$ 699 e 849, respectivamente. O iPhone 8 Plus, por sua vez, custará US$ 799 e 949, com as mesmas capacidades de armazenamento. A pré-venda nos Estados Unidos começa no dia 15 de setembro, com as entregas se iniciando em 22 de setembro.
+
+        iPhone X
+
+
+
+
+
+        Como esperado, o iPhone X (pronuncia-se “iPhone dez”) é a verdadeira renovação do iPhone. O design é o mesmo que vazou nos últimos meses. Temos uma frente dominada pela tela OLED de 5,8 polegadas, com resolução de 2436×1125 pixels, que a Apple decidiu chamar de Super Retina Display: ela possui densidade de pixels mais alta (458 ppi), brilho mais forte e cores mais precisas.
+
+
+
+        A Apple aposentou o botão de início. Para ligar o iPhone X, basta tocar na tela. E, para acessar a tela inicial, deslize o dedo para cima, mesmo gesto utilizado para acessar a tela de aplicativos recentes. Não há leitor de impressões digitais: o desbloqueio é feito por meio de reconhecimento facial, o Face ID.
+
+
+
+
+
+        Segundo a Apple, o Face ID funciona com a ajuda de um motor neural, capaz de processar 600 bilhões de operações por segundo. A tecnologia pode reconhecer seu rosto mesmo se você trocar seu corte de cabelo ou vestir óculos, se adapta de acordo com as mudanças do seu rosto ao longo do tempo, e não pode ser enganada por uma foto.
+
+        O Face ID, inclusive, promete ser mais seguro que o Touch ID: o sensor de impressões digitais podia ser desbloqueado por outra pessoa aleatória em 1 a cada 50 mil vezes; na câmera de reconhecimento facial, essa probabilidade cai para 1 em 1 milhão. Para funcionar, a nova tecnologia utiliza uma câmera infravermelho e, em ambientes escuros, um iluminador.
+
+
+
+        O iPhone X também possui outras tecnologias não necessariamente úteis: você pode, por exemplo, colocar máscaras de realidade aumentada em tempo real no seu rosto. Ou enviar, pelo iMessage, um animoji, que é basicamente um emoji animado (pode ser um gato, um cachorro ou mesmo um cocôzinho) capaz de mexer a boca de acordo com a sua fala.
+
+
+
+
+
+        A câmera traseira de 12 megapixels possui duas lentes, uma normal (f/1,8) e uma teleobjetiva (f/2,4), ambas com estabilização óptica de imagem. Há um flash com quatro LEDs para iluminar a cena em cenários noturnos, e é possível filmar em até 4K a 60 quadros por segundo. Já a câmera frontal de 7 megapixels passa a suportar o modo retrato, que desfoca o fundo da imagem.
+
+
+
+        Internamente, o hardware é parecido com o do iPhone 8. Temos um processador hexa-core Apple A11 Bionic, uma GPU desenvolvida pela Apple e uma tecnologia de carregamento sem fio. Nas conexões, há suporte a LTE Gigabit e Bluetooth 5.0. Mas o mais importante é que, de acordo com a empresa, a bateria dura duas horas a mais que a do iPhone 7. Até que enfim!
+
+        O carregador sem fio da própria Apple se chama AirPower e será lançado apenas em 2018, ainda sem preço definido. A principal característica é que ele pode recarregar um iPhone, um Apple Watch e os AirPods ao mesmo tempo. Isso não é oficialmente suportado pela tecnologia Qi, mas a Apple diz que está trabalhando para incorporar o recurso como padrão.
+
+
+
+
+
+        O iPhone X será vendido nas versões de 64 e 256 GB, custando US$ 999 e 1.149, respectivamente (ai!). A pré-venda começa no dia 27 de outubro, e os aparelhos serão entregues aos compradores a partir de 3 de novembro.
+
+
+Fonte: https://tecnoblog.net/223298/apple-iphone-8-plus-x-especificacoes-preco/
